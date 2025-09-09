@@ -1,0 +1,213 @@
+{
+  "data":[
+{
+    "id":1, 
+    "product_name":"samsung galaxy s22",
+    "product_img":"src/assets/images/mobile-img.png",
+    "price":190000,
+    "quintity":5,
+    "is_tranding":true,
+    "delivery_cast":10,
+    "offers":"20%",
+    "catogory":"electroic"
+},
+{
+    "id":2, 
+    "product_name":"makeup",
+    "product_img":"src/assets/images/img-3.png",
+    "price":4999,
+    "quintity":3,
+    "is_tranding":true,
+    "delivery_cast":5,
+    "offers":"5%",
+    "catogory":"Women"
+},
+{
+    "id":3, 
+    "product_name":"tshirt",
+    "product_img":"src/assets/images/tshirt-img.png",
+    "price":499,
+    "quintity":10,
+    "is_tranding":false,
+    "delivery_cast":5,
+    "offers":"5%",
+    "catogory":"Women"
+},
+{
+    "id":4, 
+    "product_name":"iphone 16",
+    "product_img":"src/assets/images/mobile-img.png",
+    "price":44999,
+    "quintity":5,
+    "is_tranding":true,
+    "delivery_cast":0,
+    "offers":"20%",
+    "catogory":"electroic"
+},
+{
+"id":5, 
+    "product_name":"man Watch",
+    "product_img":"src/assets/images/p7.png",
+    "price":799,
+    "quintity":6,
+    "is_tranding":false,
+    "delivery_cast":10,
+    "offers":"2%",
+    "catogory":"men"
+},
+{
+"id":41, 
+    "product_name":"Teddy Toy",
+    "product_img":"src/assets/images/p3.png",
+    "price":399,
+    "quintity":20,
+    "is_tranding":false,
+    "delivery_cast":10,
+    "offers":"10%",
+    "catogory":"Children"
+},
+{
+    "id":7, 
+    "product_name":"moto edge 40",
+    "product_img":"src/assets/images/mobile-img.png",
+    "price":14999,
+    "quintity":7,
+    "is_tranding":false,
+    "delivery_cast":20,
+    "offers":"0%",
+    "catogory":"electroic"
+},
+{
+    "id":8, 
+    "product_name":"Teddy Toy",
+    "product_img":"src/assets/images/p5.png",
+    "price":299,
+    "quintity":40,
+    "is_tranding":false,
+    "delivery_cast":0,
+    "offers":"0%",
+    "catogory":"Children"
+},
+{
+    "id":8, 
+    "product_name":"Redmi Note 14",
+    "product_img":"src/assets/images/mobile-img.png",
+    "price":14899,
+    "quintity":5,
+    "is_tranding":true,
+    "delivery_cast":0,
+    "offers":"20%",
+    "catogory":"electroic"
+},
+{
+    "id":9, 
+    "product_name":"lipstick",
+    "product_img":"src/assets/images/img-11.png",
+    "price":999,
+    "quintity":10,
+    "is_tranding":false,
+    "delivery_cast":20,
+    "offers":"0%",
+    "catogory":"Women"
+},
+{
+    "id":10, 
+    "product_name":"Ring",
+    "product_img":"src/assets/images/p1.png",
+    "price":99,
+    "quintity":20,
+    "is_tranding":false,
+    "delivery_cast":0,
+    "offers":"0%",
+    "catogory":"Women"
+},
+{
+    "id":11, 
+    "product_name":"lipstick",
+    "product_img":"src/assets/images/img-6.png",
+    "price":299,
+    "quintity":15,
+    "is_tranding":false,
+    "delivery_cast":10,
+    "offers":"0%",
+    "catogory":"Women"
+},
+{
+    "id":12, 
+    "product_name":"Makeup stick",
+    "product_img":"src/assets/images/img-1.png",
+    "price":599,
+    "quintity":14,
+    "is_tranding":true,
+    "delivery_cast":20,
+    "offers":"10%",
+    "catogory":"Women"
+},
+{
+    "id":13, 
+    "product_name":"Makeup press",
+    "product_img":"src/assets/images/img-2.png",
+    "price":1999,
+    "quintity":13,
+    "is_tranding":true,
+    "delivery_cast":10,
+    "offers":"20%",
+    "catogory":"Women"
+},
+{
+    "id":14, 
+    "product_name":"Makeup Products",
+    "product_img":"src/assets/images/img-4.png",
+    "price":2999,
+    "quintity":21,
+    "is_tranding":true,
+    "delivery_cast":10,
+    "offers":"10%",
+    "catogory":"Women"
+},
+{
+    "id":15, 
+    "product_name":"Lenovo Laptop",
+    "product_img":"src/assets/images/laptop-img.png",
+    "price":12999,
+    "quintity":21,
+    "is_tranding":true,
+    "delivery_cast":0,
+    "offers":"10%",
+    "catogory":"electroic"
+},
+{
+    "id":16, 
+    "product_name":"Hand bag",
+    "product_img":"src/assets/images/purse.png",
+    "price":199,
+    "quintity":21,
+    "is_tranding":false,
+    "delivery_cast":10,
+    "offers":"0%",
+    "catogory":"Women"
+},
+{
+    "id":17, 
+    "product_name":"Women Dress",
+    "product_img":"src/assets/images/women-clothes-img.png",
+    "price":2999,
+    "quintity":5,
+    "is_tranding":false,
+    "delivery_cast":10,
+    "offers":"5%",
+    "catogory":"Women"
+},
+{
+    "id":18, 
+    "product_name":"shirt",
+    "product_img":"src/assets/images/dress-shirt-img.png",
+    "price":399,
+    "quintity":21,
+    "is_tranding":true,
+    "delivery_cast":0,
+    "offers":"20%",
+    "catogory":"men"
+}
+  ]
+}

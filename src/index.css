@@ -1,0 +1,69 @@
+@import url('bootstrap/dist/css/bootstrap.min.css');
+/* body{
+  font-family: 'Poppins', sans-serif;
+  font-weight: normal;
+} */
+.card img{
+  max-height: 200px;
+ 
+}
+.navbar .container-fluid .navbar-brand{
+  font-weight: 800;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar .container-fluid .collapse .navbar-nav .nav-item .active{
+  /* background-color: rgb(8, 119, 8); */
+  color: aqua !important;
+  border-bottom: 4px solid rgb(13, 92, 13) ;
+  border-top: 4px solid rgb(13, 92, 13) ;
+  padding: 5px;
+
+  
+}
+.navbar .container-fluid .collapse .navbar-nav .nav-item .nav-link{
+   border-radius: 8px;
+   transition: all .3s ease !important;
+   outline: none;
+   color: white;
+   font-weight: 600;
+
+}
+.navbar .container-fluid .collapse .navbar-nav .nav-item .nav-link:active{
+  transform: scale(0.9);
+  
+}
+.login-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.login-container .form-box{
+  box-shadow: 0 0 20px aqua;
+
+}
+/* .login-container .form-box input{
+
+} */
+.messages{
+  position: absolute;
+  top: 15%;
+  /* padding: 10px; */
+  /* background-color: blue; */
+  border-radius: 10px;
+  color: white;
+  transition: all 1s ease;
+  font-weight: 700;
+  /* animation: move 1s ease forwards; */
+}
+@keyframes move{
+  0%{
+    opacity: 0;
+  }
+  50%{
+    opacity: 0.5;
+  }
+  100%{
+    opacity: 1;
+  }
+}
